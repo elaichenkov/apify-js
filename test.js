@@ -1,1 +1,1 @@
-const hook = 'Hook';
+const hook = 'hook';
